@@ -46,3 +46,7 @@ gem "jwt", "~> 2.3"
 gem "active_model_serializers", "~> 0.10.13"
 
 gem "faker", "~> 2.19"
+
+gem "devise"
+gem "devise-jwt"
+gem "rack-cors"
